@@ -1,0 +1,20 @@
+{
+  "type": "dark",
+  "colors": {
+    "background": "#dcdad6",         // soft stone — main background
+    "foreground": "#3cea3c",         // fresh green — text and icons
+    "highlight": "#ffceb8",          // pastel peach — selection or hover
+    "accent": "#bd68e4",             // electric violet — buttons, active tabs
+    "border": "#3cea3c",             // optional — for outlines or separators
+    "buttonBackground": "#bd68e4",
+    "buttonForeground": "#ffffff",
+    "inputBackground": "#ffceb8",
+    "inputForeground": "#000000",
+    "tooltipBackground": "#bd68e4",
+    "tooltipForeground": "#ffceb8",
+    "sidebarBackground": "#dcdad6",
+    "sidebarForeground": "#3cea3c",
+    "selectedBackground": "#ffceb8",
+    "selectedForeground": "#000000"
+  }
+}

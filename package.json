@@ -1,13 +1,12 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "pastel-pop-theme",
+  "title": "Pastel Pop Theme",
+  "displayName": "Pastel Pop Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A bright, playful theme using pastel peach, electric violet, fresh green, and soft stone.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
   }
 }
-
